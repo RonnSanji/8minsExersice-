@@ -1,0 +1,13 @@
+"#appWrap": {
+	top: 0,
+	left: 0,
+	zIndex: 0,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+},
+"#content": {
+	backgroundColor: "#fff",
+	zIndex: 0,
+	width: "100%",
+	height: "100%",
+},
