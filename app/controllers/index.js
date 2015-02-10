@@ -17,6 +17,7 @@ var init = function()
 // App configuration
 	var conf = {
 		index: "mainPage",
+		// index: "baseView",
 		defaultOpenTransition: {transition: 'slideInFromRight', duration: 150},
 		defaultBackTransition: {transition: 'slideInFromLeft', duration: 150},
 		indexOptions: {
